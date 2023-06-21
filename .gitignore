@@ -1,3 +1,7 @@
+settings/twitter_credentials.json
+output
+block_list.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
